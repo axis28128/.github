@@ -1,6 +1,7 @@
 # Who are we?
 We are Axis -- a robotics club started from the Republic of Moldova that also participates in FIRST Tech Challenge since late 2024.
 Our mission is to promote STEM literacy and education among the youth in our country, by participating and hosting all kinds of events.
+
 Feel free to browse through our repositories for inspiration.
 
 For more info, see our website.
